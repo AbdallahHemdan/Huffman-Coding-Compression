@@ -16,14 +16,14 @@ Our solution is to use what called (Prefix Rule) which will result into
 (uniquely-decodable-codes) ==> "No Code is Prefix to another Code".	
 
 ```
-Example : we have s = "aabacdab" 
+Example : we have Str = "aabacdab" 
 	a	->    0 
 	b	->	  10
 	c	->	  110
 	d	->	  111
 ```
 ```
-then s = 00100110111010
+then Str = 00100110111010
 ```
 
 
