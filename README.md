@@ -17,7 +17,7 @@ Our solution is to use what called (Prefix Rule) which will result into
 
 ```
 Example : we have Str = "aabacdab" 
-	a	->    0 
+	a	->        0 
 	b	->	  10
 	c	->	  110
 	d	->	  111
